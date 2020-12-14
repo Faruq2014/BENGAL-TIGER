@@ -95,6 +95,8 @@ font-weight: bold;
 #Showcase{
 min-height: 400px;
 background:url('../img/Three teams.jpeg') no-repeat center;
+background-size: cover;
+background-position: center;
 text-align: center;
 color: #ffff;
 }
